@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sahil Bhujbal and welcome to my NLP(Natural Language Processing) repository</h2>
+<h2 align="center">My name is Sahil Bhujbal and welcome to my NLP(Natural Language Processing) repository</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">-This repository consists of NLP projects which are mainly doing three tasks ; Sentiment Analysis, Word Cloud (To understand frequency of words) and Text Similarity.<br>-One project includes both NLP as well as Machine learning to predict whether the tweet is right or wrong.<br><br>Libraries: Pandas, Numpy, NLTK,  wordcloud, regular expression, matplotlib</p>
+<p align="left">-This repository consists of NLP projects which are mainly doing three tasks :<br><br>          ->Sentiment Analysis <br>->Word Cloud (To understand frequency of words) <br>->Text Similarity.<br><br>-One project includes both NLP as well as Machine learning to predict whether the tweet is right or wrong.<br><br>Programming language --> Python<br><br>Libraries used: Pandas, Numpy, NLTK,  wordcloud, regular expression, matplotlib</p>
 
 ###
 
@@ -24,5 +24,8 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3AzZ2E1b3Q5OXU0bXMxbjBxdncwZm9objNiMTE2bG5kcXR6cXFnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9DCsacXaKQEGcQMVA0/giphy.gif"  />
+</div>
 
 ###
