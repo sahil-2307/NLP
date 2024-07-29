@@ -24,6 +24,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sahil-2307/sahil-2307/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sahil-2307/sahil-2307/NLP/snake.svg" alt="Snake animation" />
 
 ###
