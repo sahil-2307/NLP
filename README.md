@@ -1,0 +1,2 @@
+-This repository consists of NLP projects which are mainly doing three tasks ; Sentiment Analysis, Word Cloud (To understand frequency of words) and Text Similarity.
+-One project includes both NLP as well as Machine learning to predict whether the tweet is right or wrong.
